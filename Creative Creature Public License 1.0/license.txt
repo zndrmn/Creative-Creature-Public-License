@@ -1,0 +1,47 @@
+----------------------------------------
+[ Creative Creature Public License 1.0 ]
+----------------------------------------
+
+[ Allowed Terms ]
+
+You are allowed to:
+
+    1. Use, modify, remix, transform, and build upon the Material.
+    2. Distribute modified forms of the Material publicly, Monetized or not.
+    3. Redistribute the Material privately.
+    4. Include the Material in media which may be Monetized, such as: videos, live-streams, posts, or screenshots.
+
+[ Prerequisite Terms ]
+
+Prerequisites for the Allowed Terms:
+
+    1. Provide clear, obvious, and accessible credits to the Licensor. If available: provide the credited name(s),
+       credited group(s), and link(s) to the original Material.
+    2. Indicate if any modifications were made to the Material. This can be done through a simple explanation of the
+       modifications.
+    3. Modified forms of the Material must be distributed under the same license as the original Material.
+
+[ Disallowed Terms ]
+
+You are not allowed to:
+
+    1. Distribute the Material behind Paywalls, or through Monetized URL-shorteners.
+    2. Distribute the Material publicly, without any meaningful changes.
+    3. Claim to own the Material, claim to be the official source, or suggest to be endorsed by the Licensor.
+    4. Use or train AI models, neural networks, or other similar technologies with the Material.
+
+[ Disclaimers ]
+
+    1. THE MATERIAL COMES AS-IS, AND PROVIDES NO WARRANTIES OF ANY KIND.
+    2. TO THE EXTENT THAT'S ALLOWED BY THE LAW: THE LICENSOR IS NOT LIABLE FOR ANY DAMAGES THAT MAY ARISE FROM THESE
+       TERMS OR FROM USING THE MATERIAL.
+
+[ Definitions ]
+
+    1. "Licensor" means the individual(s) or entity(s) offering these terms.
+    2. "Material" means the art or other Material which is under this license.
+    3. "Monetized" means to receive monetary compensation.
+    4. "Paywalls" means charging money to access the Material.
+    5. "URL-shorteners" means URLs, typically provided by a service, which perform things like collecting traffic
+       data, and hosting ads, before redirecting to the final destination link.
+    6. "You" means the individual exercising the terms under this license.
